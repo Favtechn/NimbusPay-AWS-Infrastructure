@@ -1,4 +1,4 @@
-# 💳 NimbusPay — Cloud Infrastructure & Security
+#  NimbusPay — A Cloud Infrastructure 
 
 NimbusPay is a fintech startup-style project focused on building a
 secure and scalable cloud environment for a digital payment platform.
